@@ -1,1 +1,1 @@
-# TESTER ONLY PURPOSE
+# For testing purposes only
