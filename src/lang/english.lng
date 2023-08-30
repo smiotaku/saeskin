@@ -15,11 +15,11 @@
 14=Switch the theme
 15=Played:
 16=Equalizer
-17=Skin Settings
-18=SKIN SETTINGS
+17=Theme Settings
+18=THEME SETTINGS
 19=Home
 20=Characters
-21=-
+21=About
 22=Themes
 23=-
 24=-
@@ -44,8 +44,9 @@
 44=~
 45=~
 46=~
+47=~
 48=~
-49=v1.0.0 AIMP 5
+49=v1.0.2-beta
 50=~
 51=~
 52=~
@@ -62,13 +63,13 @@
 63=Atelier Ryza
 64=Now Playing
 65=Your Playlists
-66=Check for update [URL=@Lng:67;]@smiotaku[/URL] [ Sukabumi Otaku Network ]
+66=Check for update
 67=https://github.com/smiotaku/saeskin/releases
 68=Choose your mode
 69=Modify the skin theme's color.
 70=Accent colors
 71=Adjust the accent color of the skin theme.
-72=Bottom Panel
+72=Bottom Panel (Player Action)
 73=Toggle the visibility of the bottom panel.
 74=Right Panel
 75=Toggle the visibility of the right panel.
@@ -89,3 +90,20 @@
 90=If you are the owner of any content featured in the AIMP Skin and you do not authorize its use, please reach out to us through DMCA at [URL=https://infosmiotaku.gitbook.io/smiotaku/pages/dmca]official website[/URL]
 91=This is a preview of the settings.
 92=Please note that the community version might differ from this version.
+93=WELCOME
+94=In this window, you will be introduced to the skin's functionalities.
+95=Utilize     to switch between Home Designs or to display Navigation Menus.
+96=Utilize            to display the play action on the home screen.
+97=Toggle between Home, Playlist, Music Library, Now Playing, Visualizations, and Characters.
+98=Use       to switch the between light or dark themes
+99=Utilize      to access the advanced skin settings.
+100=Access this window again by clicking on [B]AIMP Menu > Introduction[/B]
+101=Let's go!
+102=Public Version
+103=Community Version
+104=COMMUNITY VERSION
+105=Playlist & Library
+106=Free for all (member & non-member).
+107=Upgrade
+108=Tray Control 
+109=[B]Development continues and we are waiting for new ideas from you![/B]
