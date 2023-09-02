@@ -3,6 +3,7 @@
 ### What's Changed
 - Add New Character Windows.
 - "Adjust Character Placement" Feature Adjustments.
+- Added Maximize button for Theme Settings
   
 ## 28/08/23 21:20 UTC+7
 ### What's Changed
