@@ -5,6 +5,7 @@
 - "Adjust Character Placement" Feature Adjustments.
 - Added Maximize button for Theme Settings.
 - Added benefit details for the community version.
+- Fixed the character background for Track Info.
   
 ## 28/08/23 21:20 UTC+7
 ### What's Changed
