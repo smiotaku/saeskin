@@ -7,6 +7,7 @@
 - Added benefit details for the community version.
 - Fixed the character background for Track Info.
 - Adjusted links for updates, check logs and official sites.
+- Combining the Theme Settings container.
   
 ## 28/08/23 21:20 UTC+7
 ### What's Changed
