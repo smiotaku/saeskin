@@ -2,7 +2,7 @@
 ## 03/09/23
 ### What's Changed
 - Initial Docked for the Characters Windows
-- 
+- Added Information to Get Community Version
 
 ## 02/09/23 22:00 UTC+7
 ### What's Changed
