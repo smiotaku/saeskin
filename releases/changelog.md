@@ -1,6 +1,14 @@
 # SAESKIN CHANGELOG
+## 04/09/23
+- Added more characters
 
-## 03/09/23 22:00 UTC+7
+## 03/09/23
+### What's Changed
+- Initial Docked for the Characters Windows
+- Added Information to Get Community Version
+- Moved "Adjust Character Placement" and "Adjust Character Opacity" Feature to Character Settings
+
+## 02/09/23 22:00 UTC+7
 ### What's Changed
 - Added New Character Windows.
 - Added Maximize button for Theme Settings.
