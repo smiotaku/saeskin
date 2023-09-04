@@ -3,7 +3,8 @@
 - Disables Splash Screen resizing
 - Fixed localization
 - Added the "Adjust Character Anchors" Feature
-- "Adjust Character Placement" Feature Adjustments.
+- "Adjust Character Placement" Feature Adjustments
+- Adjusted the default opacity for Character to 150
 
 # Release v1.1.13
 ## 04/09/23
