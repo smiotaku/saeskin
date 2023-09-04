@@ -1,6 +1,7 @@
 # SAESKIN CHANGELOG
 ## 04/09/23 17:00 UTC+7
 - Disables Splash Screen resizing
+- Fixed localization
 
 # Release v1.1.13
 ## 04/09/23
