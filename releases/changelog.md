@@ -4,6 +4,7 @@
 - Initial Docked for the Characters Windows
 - Added Information to Get Community Version
 - Moved "Adjust Character Placement" and "Adjust Character Opacity" Feature to Character Settings
+- Added more characters
 
 ## 02/09/23 22:00 UTC+7
 ### What's Changed
