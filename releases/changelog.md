@@ -1,4 +1,7 @@
 # SAESKIN CHANGELOG
+## 05/09/23
+- Added the "Selector Tools" Feature
+
 ## 04/09/23 17:00 UTC+7
 - Disables Splash Screen resizing
 - Fixed localization
@@ -9,7 +12,6 @@
 # Release v1.1.13
 ## 04/09/23
 - Added more characters
-- Release v1.1.13
 
 ## 03/09/23
 ### What's Changed
