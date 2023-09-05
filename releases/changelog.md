@@ -1,6 +1,7 @@
 # SAESKIN CHANGELOG
 ## 05/09/23
 - Added the "Selector Tools" Feature
+- Adjusted the Playlist & Library Setting
 
 ## 04/09/23 17:00 UTC+7
 - Disables Splash Screen resizing
