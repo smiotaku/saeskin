@@ -1,11 +1,21 @@
-# SAESKIN ZZZ CHANGELOG
-## 03/09/23 22:00 UTC+7
+# SAESKIN CHANGELOG
+## 04/09/23
+- Added more characters
+
+## 03/09/23
 ### What's Changed
-- Add New Character Windows.
-- "Adjust Character Placement" Feature Adjustments.
+- Initial Docked for the Characters Windows
+- Added Information to Get Community Version
+- Moved "Adjust Character Placement" and "Adjust Character Opacity" Feature to Character Settings
+
+## 02/09/23 22:00 UTC+7
+### What's Changed
+- Added New Character Windows.
 - Added Maximize button for Theme Settings.
+- Added opacity setting for character background. 
 - Added benefit details for the community version.
 - Fixed the character background for Track Info.
+- "Adjust Character Placement" Feature Adjustments.
 - Adjusted links for updates, check logs and official sites.
 - Combining the Theme Settings container.
   
