@@ -1,4 +1,18 @@
 # SAESKIN CHANGELOG
+## 05/09/23
+- Added the "Selector Tools" Feature
+- Adjusted the Home Setting
+- Adjusted the Now Playing Setting
+- Adjusted the Tray Control Setting
+
+## 04/09/23 17:00 UTC+7
+- Disables Splash Screen resizing
+- Fixed localization
+- Added the "Adjust Character Anchors" Feature
+- "Adjust Character Placement" Feature Adjustments
+- Adjusted the default opacity for Character to 150
+
+# Release v1.1.13
 ## 04/09/23
 - Added more characters
 
