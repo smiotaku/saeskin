@@ -3,6 +3,7 @@
 - Added the "Selector Tools" Feature
 - Adjusted the Home Setting
 - Adjusted the Now Playing Setting
+- Adjusted the Tray Control Setting
 
 ## 04/09/23 17:00 UTC+7
 - Disables Splash Screen resizing
