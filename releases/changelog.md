@@ -3,6 +3,7 @@
 - Fixed PlaceInfo for Character
 - Moved the "Adjust character opacity" feature to "Transparency Effects"
 - Synchronized the "Character" button if Transparency Effect is enabled
+- Added "Window Frame" Feature
 
 ## 05/09/23
 - Added the "Selector Tools" Feature
