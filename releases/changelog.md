@@ -4,6 +4,7 @@
 - Moved the "Adjust character opacity" feature to "Transparency Effects"
 - Synchronized the "Character" button if Transparency Effect is enabled
 - Added "Window Frame" Feature
+- Adjusted Theme Setting and Gradient Setting
 
 ## 05/09/23
 - Added the "Selector Tools" Feature
