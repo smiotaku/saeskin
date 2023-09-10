@@ -10,6 +10,7 @@
 - Added the "Window Frame" feature.
 - Made adjustments to Theme Settings and Gradient Settings.
 
+# Release v1.3.20
 ## 05/09/23
 - Added the "Selector Tools" Feature
 - Adjusted the Home Setting
