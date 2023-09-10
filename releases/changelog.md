@@ -1,4 +1,7 @@
 # SAESKIN CHANGELOG
+## 11/09/23
+- Synchronized the "Character" button when the Background Selector Window are enabled and docked.
+
 ## 10/09/23
 - Introducing a new Introduction Windows
 - Tweaked the Custom Providers
