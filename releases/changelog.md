@@ -1,10 +1,14 @@
 # SAESKIN CHANGELOG
+## 10/09/23
+- Introducing a new Introduction Windows
+- Tweaked the Custom Providers
+
 ## 09/09/23
-- Fixed PlaceInfo for Character
-- Moved the "Adjust character opacity" feature to "Transparency Effects"
-- Synchronized the "Character" button if Transparency Effect is enabled
-- Added "Window Frame" Feature
-- Adjusted Theme Setting and Gradient Setting
+- Fixed PlaceInfo for characters.
+- Moved the "Adjust character opacity" feature to the "Transparency Effects" section.
+- Synchronized the "Character" button when Transparency Effects are enabled.
+- Added the "Window Frame" feature.
+- Made adjustments to Theme Settings and Gradient Settings.
 
 ## 05/09/23
 - Added the "Selector Tools" Feature
