@@ -1,11 +1,32 @@
 # SAESKIN CHANGELOG
+# Release v1.4.44
+## 11/09/23
+### What's Changed
+- Synchronized the "Character" button when the Background Selector Window are enabled and docked.
+
+## 10/09/23
+### What's Changed
+- Introducing a new Introduction Windows
+- Tweaked the Custom Providers
+
+## 09/09/23
+### What's Changed
+- Fixed PlaceInfo for characters.
+- Moved the "Adjust character opacity" feature to the "Transparency Effects" section.
+- Synchronized the "Character" button when Transparency Effects are enabled.
+- Added the "Window Frame" feature.
+- Made adjustments to Theme Settings and Gradient Settings.
+
+# Release v1.3.20
 ## 05/09/23
+### What's Changed
 - Added the "Selector Tools" Feature
 - Adjusted the Home Setting
 - Adjusted the Now Playing Setting
 - Adjusted the Tray Control Setting
 
 ## 04/09/23 17:00 UTC+7
+### What's Changed
 - Disables Splash Screen resizing
 - Fixed localization
 - Added the "Adjust Character Anchors" Feature
@@ -14,6 +35,7 @@
 
 # Release v1.1.13
 ## 04/09/23
+### What's Changed
 - Added more characters
 
 ## 03/09/23
