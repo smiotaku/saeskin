@@ -7,7 +7,8 @@
 - Renamed "Character Settings" to "Background Settings."
 - Added stop support through a long press on the play button.
 - Added running text support when the mouse cursor is hovered.
-- Fixed bug on Now Playing feature
+- Fixed bug on Now Playing feature.
+- Fixed a bug of unintentional synchronization between Track Info with Playlist and Track Info with Music Library.
 
 # Release v1.4.44
 ## 11/09/23
