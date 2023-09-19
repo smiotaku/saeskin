@@ -1,7 +1,12 @@
 # SAESKIN CHANGELOG
 ## 20/09/23
 ### What's Changed
-- Grouping the "Character Placement" feature.
+- Grouped the "Character Placement" feature.
+- Disabled animations in Personalization Settings.
+- Removed the "Windows with Gray Accent" feature.
+- Renamed "Character Settings" to "Background Settings."
+- Added stop support through a long press on the play button.
+- Added running text support when the mouse cursor is hovered.
 
 # Release v1.4.44
 ## 11/09/23
