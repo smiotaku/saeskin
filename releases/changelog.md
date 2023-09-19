@@ -1,4 +1,8 @@
 # SAESKIN CHANGELOG
+## 20/09/23
+### What's Changed
+- Grouping the "Character Placement" feature.
+
 # Release v1.4.44
 ## 11/09/23
 ### What's Changed
