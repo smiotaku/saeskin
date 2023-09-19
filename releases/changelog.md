@@ -7,6 +7,7 @@
 - Renamed "Character Settings" to "Background Settings."
 - Added stop support through a long press on the play button.
 - Added running text support when the mouse cursor is hovered.
+- Fixed bug on Now Playing feature
 
 # Release v1.4.44
 ## 11/09/23
