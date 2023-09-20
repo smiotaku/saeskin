@@ -9,7 +9,9 @@
 - Added running text support when the mouse cursor is hovered.
 - Fixed bug on Now Playing feature.
 - Fixed a bug of unintentional synchronization between Track Info with Playlist and Track Info with Music Library.
-- Added support for reset customization using right click
+- Added support for reset customization using right click.
+- Disabled the transparent effect if the second design of the track info is active.
+- Disabled the gradient effect if the second design of the track info is active.
 
 # Release v1.4.44
 ## 11/09/23
