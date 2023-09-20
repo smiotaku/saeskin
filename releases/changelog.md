@@ -9,6 +9,7 @@
 - Added running text support when the mouse cursor is hovered.
 - Fixed bug on Now Playing feature.
 - Fixed a bug of unintentional synchronization between Track Info with Playlist and Track Info with Music Library.
+- Added support for reset customization using right click
 
 # Release v1.4.44
 ## 11/09/23
