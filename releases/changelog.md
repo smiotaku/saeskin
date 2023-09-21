@@ -3,6 +3,8 @@
 ### What's Changed
 - Resolved a bug in Windows Accent Settings.
 - Relocated "About" within Personalization to "About Windows".
+- Redesigned the Home, Playlist, Music Library, Now Playing, Equalizer, Visualizations, and Characters menus.
+- Adjusted the margin for buttons associated with Home, Playlist, Music Library, Now Playing, Equalizer, Visualizations, and Characters for a more polished look.
 
 ## 20/09/23
 ### What's Changed
