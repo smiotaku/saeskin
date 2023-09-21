@@ -1,4 +1,9 @@
 # SAESKIN CHANGELOG
+## 21/09/23
+### What's Changed
+- Resolved a bug in Windows Accent Settings.
+- Relocated "About" within Personalization to "About Windows".
+
 ## 20/09/23
 ### What's Changed
 - Grouped the "Character Placement" feature.
@@ -7,7 +12,7 @@
 - Renamed "Character Settings" to "Background Settings."
 - Added stop support through a long press on the play button.
 - Added running text support when the mouse cursor is hovered.
-- Fixed bug on Now Playing feature.
+- Fixed a bug on Now Playing feature.
 - Fixed a bug of unintentional synchronization between Track Info with Playlist and Track Info with Music Library.
 - Added support for reset customization using right click.
 - Disabled the transparent effect if the second design of the track info is active.
