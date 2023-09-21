@@ -5,6 +5,7 @@
 - Relocated "About" within Personalization to "About Windows".
 - Redesigned the Home, Playlist, Music Library, Now Playing, Equalizer, Visualizations, and Characters menus.
 - Adjusted the margin for buttons associated with Home, Playlist, Music Library, Now Playing, Equalizer, Visualizations, and Characters for a more polished look.
+- Resolved the issue with the font in the ContextMenu to ensure proper display and readability.
 
 ## 20/09/23
 ### What's Changed
