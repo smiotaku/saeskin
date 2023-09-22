@@ -1,4 +1,9 @@
 # SAESKIN CHANGELOG
+## 22/09/23
+### What's Changed
+- Modified the initial color scheme of the track info design for an improved visual appearance.
+- Introduced a Skin-specific ContextMenu to streamline and differentiate default menus from custom menus.
+
 ## 21/09/23
 ### What's Changed
 - Resolved a bug in Windows Accent Settings.
