@@ -1,4 +1,31 @@
 # SAESKIN CHANGELOG
+## 22/09/23
+### What's Changed
+- Modified the initial color scheme of the track info design for an improved visual appearance.
+- Introduced a Skin-specific ContextMenu to streamline and differentiate default menus from custom menus.
+
+## 21/09/23
+### What's Changed
+- Resolved a bug in Windows Accent Settings.
+- Relocated "About" within Personalization to "About Windows".
+- Redesigned the Home, Playlist, Music Library, Now Playing, Equalizer, Visualizations, and Characters menus.
+- Adjusted the margin for buttons associated with Home, Playlist, Music Library, Now Playing, Equalizer, Visualizations, and Characters for a more polished look.
+- Resolved the issue with the font in the ContextMenu to ensure proper display and readability.
+
+## 20/09/23
+### What's Changed
+- Grouped the "Character Placement" feature.
+- Disabled animations in Personalization Settings.
+- Removed the "Windows with Gray Accent" feature.
+- Renamed "Character Settings" to "Background Settings."
+- Added stop support through a long press on the play button.
+- Added running text support when the mouse cursor is hovered.
+- Fixed a bug on Now Playing feature.
+- Fixed a bug of unintentional synchronization between Track Info with Playlist and Track Info with Music Library.
+- Added support for reset customization using right click.
+- Disabled the transparent effect if the second design of the track info is active.
+- Disabled the gradient effect if the second design of the track info is active.
+
 # Release v1.4.44
 ## 11/09/23
 ### What's Changed
