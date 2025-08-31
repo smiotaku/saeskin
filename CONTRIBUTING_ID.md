@@ -1,43 +1,64 @@
-# Panduan Kontribusi
+# 🌸 Panduan Kontribusi
 
-Terima kasih banyak atas minat Anda untuk berkontribusi pada proyek skin AIMP bertema anime ini! Kontribusi Anda sangat berarti. ✨
+Hai teman-teman! 👋  
+Terima kasih sudah tertarik untuk ikutan bikin **anime-themed AIMP skin** ini makin keren. ✨  
 
-Sebelum memulai, pastikan Anda memahami alur kerja dan aturan yang ada. Hal ini untuk memastikan proses kolaborasi berjalan lancar. 🤝
-
----
-
-### 📚 Aturan Kontribusi
-
-Untuk menjaga konsistensi dan kualitas, mohon ikuti aturan berikut:
-
-* **Penting: Hindari Duplikasi!** 🔍 Sebelum membuat *issue* baru, **cari terlebih dahulu** di halaman [Issues](https://github.com/smiotaku/saeskin/issues) untuk melihat apakah karakter atau desain yang Anda inginkan sudah pernah diajukan. Jika sudah ada, tambahkan komentar di *issue* yang bersangkutan alih-alih membuat *issue* baru.
-* **Hak Cipta:** 📝 Hanya gunakan gambar yang bebas hak cipta atau gambar yang jelas untuk penggunaan non-komersial. Jika Anda ragu, berikan sumber gambarnya.
-* **Konsistensi PSD:** 🎨 **Jangan** mengubah struktur layer atau nama layer pada file PSD yang kami sediakan.
-* **Kualitas Gambar:** 🖼️ Gambar yang digunakan harus memiliki resolusi tinggi dan tidak buram.
+Setiap kontribusi kamu sangat berarti, sekecil apa pun itu. Yuk, baca dulu aturan dan langkah-langkahnya biar prosesnya gampang dan enak buat semua. 🤝
 
 ---
 
-### 🚀 Alur Kerja Kontribusi
+## 📚 Aturan Kontribusi
 
-Ikuti langkah-langkah berikut untuk mengirimkan kontribusi Anda:
+Supaya hasilnya rapi dan konsisten, mohon ikuti beberapa aturan sederhana ini:
 
-1.  **Cek Issue yang Ada:** 🔎 Buka halaman [Issues](https://github.com/smiotaku/saeskin/issues) dan gunakan fitur pencarian dengan nama karakter atau anime.
-2.  **Buat Issue Baru:** 📄 Jika belum ada, buat *issue* baru dengan menggunakan template yang tersedia.
-3.  **Fork Repositori:** 🍴 Buka halaman utama repositori ini dan klik tombol **"Fork"** di pojok kanan atas.
-4.  **Buat Branch Baru:** 🌳 Setelah Anda memiliki salinan repositori, **clone** ke komputer lokal Anda dan buat branch baru:   
-    `git clone https://github.com/smiotaku/saeskin.git`  
-    `git checkout -b saeskin`  
-5.  **Kerjakan Kontribusi Anda:** 🔨
-    * **Desain Grafis:** Unduh file PSD, edit, lalu simpan kembali dalam folder yang sama.
-    * **Pencarian Gambar:** Buat folder baru untuk skin yang Anda kerjakan, lalu unggah gambar-gambar ke sana.
-6.  **Commit dan Push Perubahan:** 💾 Setelah semua pekerjaan selesai, tambahkan perubahan, *commit*, dan *push* ke repositori Anda:  
-    `git add .`  
-    `git commit -m "feat: tambahkan desain untuk skin Anya Forger"`  
-    `git push origin saeskin`  
-7.  **Buat Pull Request (PR):** 📥 Buka repositori Anda di GitHub, klik tombol **"Pull Request"**, isi deskripsi dengan jelas dan tautkan ke *issue* yang terkait, lalu kirim PR Anda.
+- 🔍 **Jangan Ganda!**  
+  Sebelum bikin *issue* baru, coba cek dulu [halaman Issues](https://github.com/smiotaku/saeskin/issues).  
+  Kalau karakter/desain yang kamu mau udah ada, tinggal komen aja di situ. Jangan bikin dobel, ya.
+- 📝 **Perhatikan Hak Cipta**  
+  Gunakan gambar yang:
+  - Bebas hak cipta, atau
+  - Memang jelas untuk penggunaan **non-komersial**.  
+  Kalau masih ragu, sertakan aja sumber gambarnya.
+- 🎨 **File PSD**  
+  Tolong jangan ubah struktur atau nama *layer* di file PSD yang udah disediakan.
+- 🖼️ **Kualitas Gambar**  
+  Gambar harus jelas, tajam, dan resolusi tinggi (jangan yang burem).
 
 ---
 
-### 🎁 Penghargaan (Reward)
+## 🚀 Cara Berkontribusi
 
-Sebagai bentuk apresiasi, kontributor yang **Pull Request**-nya digabungkan (merged) akan mendapatkan akses ke **versi komunitas**. Ini adalah skin eksklusif yang hanya bisa didapatkan oleh para kontributor. 🎉
+Langkah-langkahnya gampang banget:
+
+1. **🔎 Cek Issues yang Ada**  
+   Cari dulu dengan nama karakter atau anime di [Issues page](https://github.com/smiotaku/saeskin/issues).
+2. **📄 Buat Issue Baru**  
+   Kalau belum ada, bikin *issue* baru pake template yang tersedia.
+3. **🍴 Fork Repo**  
+   Klik tombol **Fork** di pojok kanan atas halaman repo utama.
+4. **🌳 Bikin Branch Baru**  
+   ```bash
+   git clone https://github.com/smiotaku/saeskin.git
+   git checkout -b smiotaku/saeskin
+   ```
+5. **🔨 Edit & Siapkan Skin Kamu**  
+   - [Download PSD](https://drive.google.com/file/d/1TW5sIIo48IUHfW30mD6SsToqS0062wVo/view)  
+   - Edit sesuai kreativitas kamu  
+   - Simpan hasil editan di folder khusus, upload semua gambar di situ
+6. **💾 Commit & Push**  
+   ```bash
+   git add .
+   git commit -m "feat: add design for Anya Forger skin"
+   git push origin smiotaku/saeskin
+   ```
+7. **📥 Pull Request (PR)**  
+   - Buka repo fork kamu  
+   - Klik **Pull Request**  
+   - Tulis deskripsi singkat & hubungkan dengan *issue* terkait  
+   - Submit deh, gampang kan ✨
+
+---
+
+## 🎁 Rewards
+
+Sebagai bentuk apresiasi, semua kontributor yang PR-nya di-*merge* bakal dapat akses ke **Community Version** — skin eksklusif yang cuma bisa dipake sama kontributor. 🎉  
